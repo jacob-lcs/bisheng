@@ -6,6 +6,8 @@
 [![NPM downloads](http://img.shields.io/npm/dm/bisheng.svg?style=flat-square)](https://npmjs.org/package/bisheng)
 [![Dependency Status](https://david-dm.org/benjycui/bisheng.svg?style=flat-square)](https://david-dm.org/benjycui/bisheng)
 
+中文 | [English](https://github.com/jacob-lcs/kebisheng/blob/master/README.md)
+
 > [毕胜](https://en.wikipedia.org/wiki/Bi_Sheng)是中国历史上第一个的可移动式技术的发明家。
 
 `bisheng ` 旨在使用 [React](https://facebook.github.io/react/) 将 [Markdown](https://en.wikipedia.org/wiki/Markdown)（以及其他带有转换器的静态文件）转换为静态网站和博客。

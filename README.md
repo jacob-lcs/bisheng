@@ -6,6 +6,8 @@
 [![NPM downloads](http://img.shields.io/npm/dm/bisheng.svg?style=flat-square)](https://npmjs.org/package/bisheng)
 [![Dependency Status](https://david-dm.org/benjycui/bisheng.svg?style=flat-square)](https://david-dm.org/benjycui/bisheng)
 
+[中文](https://github.com/jacob-lcs/kebisheng/blob/master/README-CN.md) | English
+
 > [Bi Sheng](https://en.wikipedia.org/wiki/Bi_Sheng) was the Chinese inventor of the first known movable type technology.
 
 `bisheng` is designed to transform [Markdown](https://en.wikipedia.org/wiki/Markdown)(and other static files with transformers) into static websites and blogs using [React](https://facebook.github.io/react/).
