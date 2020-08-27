@@ -19,5 +19,6 @@
   "homepage": "https://github.com/benjycui/bisheng-plugin-description#readme",
   "dependencies": {
     "jsonml.js": "^0.1.0"
-  }
+  },
+  "gitHead": "f6d947210c1688f9a5e4454f84bf4b4c401288ec"
 }

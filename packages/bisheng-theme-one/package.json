@@ -72,5 +72,6 @@
   "peerDependencies": {
     "bisheng": "^0.28.3",
     "react": "^16.0.0"
-  }
+  },
+  "gitHead": "f6d947210c1688f9a5e4454f84bf4b4c401288ec"
 }
