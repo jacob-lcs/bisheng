@@ -8,5 +8,7 @@
       "ignore": "bisheng-{theme-one,example}"
     }
   },
-  "version": "independent"
+  "version": "independent",
+  "useWorkspaces": true,
+  "npmClient": "yarn"
 }

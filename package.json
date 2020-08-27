@@ -1,4 +1,10 @@
 {
+  "name": "kebisheng",
+  "description": "基于 bisheng 定制的静态网站生成工具",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "lint": "eslint .eslintrc.js ./packages/*/src ./packages/*/test",
     "lint-fix": "eslint .eslintrc.js --fix ./packages/*/src ./packages/*/test",
@@ -16,5 +22,6 @@
     "eslint-plugin-react": "latest",
     "lerna": "^3.4.3",
     "mocha": "^5.2.0"
-  }
+  },
+  "license": "MIT"
 }
