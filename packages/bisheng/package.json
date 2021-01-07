@@ -90,7 +90,7 @@
     "node-prismjs": "^0.1.0",
     "nprogress-for-antd": "^0.2.0",
     "nunjucks": "^2.5.2",
-    "postcss": "^7.0.6",
+    "postcss": "^8.2.3",
     "postcss-loader": "~3.0.0",
     "prismjs": "^1.4.1",
     "ramda": "^0.26.0",
